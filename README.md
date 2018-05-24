@@ -52,9 +52,3 @@ using LaTeX
 * ./Bike_Share_Analysis.ipynb is a Jupyter notebook containing the "skeleton"
 code for this project
 
-## References & Citations
-
-1. Data provided by:
-    * [capitalbikeshare.com](https://www.capitalbikeshare.com/system-data)
-    * [divvybikes.com](https://www.divvybikes.com/system-data)
-    * [citibikenyc.com](https://www.citibikenyc.com/system-data)
