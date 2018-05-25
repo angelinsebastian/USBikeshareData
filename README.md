@@ -39,7 +39,7 @@ analysis process.
 
 ### Submission
 
-iPython notebook will be shared as a PDF document. Make sure to cite all appropriate
+iPython notebook will be shared as a HTML document. Make sure to cite all appropriate
 sources. (Contained within this README)
 
 ## File Descriptions
@@ -47,8 +47,6 @@ sources. (Contained within this README)
 * ./data/ contains the various datasets
 * ./examples/ contains an example of the data cleaning process
 * ./2018_US_Bikeshare_Analysis.ipynb is a Jupyter notebook containing the work I have done
-* ./2018_US_Bikeshare_Analysis.pdf is an exported version of the above file
-using LaTeX
 * ./Bike_Share_Analysis.ipynb is a Jupyter notebook containing the "skeleton"
 code for this project
 
